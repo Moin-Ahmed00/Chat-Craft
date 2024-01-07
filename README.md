@@ -15,6 +15,8 @@ and messaging.
 For Client side :-
     Go to client side Directory cd client and run -
         npm start
+
+
 For server side :-
     Go to server side Directory cd server and run -
         npm run dev 
@@ -22,6 +24,7 @@ For server side :-
 
 Install the dependencies for the chat craft 
     npm install
+
 
 The chat craft uses the stream chat API's for the real time chat experience so use stream chat react.
 **
